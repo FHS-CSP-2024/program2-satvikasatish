@@ -88,3 +88,6 @@
 #Mary is a valiant knight, born in the year 1572. 
 #One morning Mary woke up to an awful racket: a dragon was approaching the village. 
 #Only Mary could save the village's residents.
+name = input("Give me a girl's name.")
+year = input("What year were you born?")
+print("When" + name "woke up in the morning, she found out that she had sprouted iwngs." )
