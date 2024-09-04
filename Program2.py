@@ -90,4 +90,4 @@
 #Only Mary could save the village's residents.
 name = input("Give me a girl's name.")
 year = input("What year were you born?")
-print("When" + name "woke up in the morning, she found out that she had sprouted iwngs." )
+print("When" + name "woke up in the morning, she found out that she had sprouted wings." )
